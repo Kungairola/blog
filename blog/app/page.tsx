@@ -7,11 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`Welcome to my corner of the world! I'm a mountain enthusiast with a passion for exploring high passes, learning from indigenous cultures, and unraveling the secrets of ecology. Currently, I'm delving into the fascinating realm of molecular ecology, while also learning to program in Python. When I'm not geeking out over science, you can find me dreaming of my next adventure in breathtaking destinations like Iceland, Norway, Denmark, Italy, Yukon, the Andes, Greenland, and Japan. Join me on this journey as I share tales from the mountains, musings on ecology, and insights into the intersection of technology and nature.`}
       </p>
       <div className="my-8">
         <BlogPosts />
